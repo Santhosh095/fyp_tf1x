@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+tf_slim==1.1.0
+opencv-python==4.8.1.78
+flask==3.0.0
+Pillow==10.1.0
+pyyaml==6.0.1
